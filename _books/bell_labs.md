@@ -9,7 +9,6 @@ started: 2025-03-23
 finished: 2025-03-27
 released: 2012
 stars: 5
-goodreads_review: 6318556633
 status: Finished
 ---
 
