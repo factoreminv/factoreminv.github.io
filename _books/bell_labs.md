@@ -8,7 +8,7 @@ isbn: 7539967447 # use ISBN to fetch cover (if no `olid` is provided, dashes are
 started: 2025-03-23
 finished: 2025-03-27
 released: 2012
-stars: 5
+stars: 4
 status: Finished
 ---
 
