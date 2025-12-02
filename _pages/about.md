@@ -32,4 +32,4 @@ I wrote two papers on the mathematical foundations of ML, advised by Orhan Arık
 
 I also work on knowledge graph complation and goal planning for robotics in my free time.
 
-If you are methematically inclined, please take a look at [MPOTM]{https://math.bilkent.edu.tr/prob-month.html}
+If you are methematically inclined, please take a look at [MPOTM][https://math.bilkent.edu.tr/prob-month.html]
