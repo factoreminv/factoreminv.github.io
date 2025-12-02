@@ -50,6 +50,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/bell_labs/";
+            },},{id: "books-pieces-of-the-action",
+          title: 'Pieces of the Action',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/pieces/";
             },},{id: "news-presented-the-monomial-paper-at-apsipa-2025",
           title: 'Presented the monomial paper at APSIPA 2025',
           description: "",
