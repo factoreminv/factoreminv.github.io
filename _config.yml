@@ -7,7 +7,7 @@ first_name: Özgür
 middle_name:
 last_name: Soysal
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  ozgur.soysal@ug.bilkent.edu.tr is the best way to contact me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
