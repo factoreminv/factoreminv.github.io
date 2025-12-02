@@ -50,6 +50,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/bell_labs/";
+            },},{id: "books-one-man-39-s-view-of-the-world",
+          title: 'One Man&amp;#39;s View of the World',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/leekuan/";
             },},{id: "books-pieces-of-the-action",
           title: 'Pieces of the Action',
           description: "",
