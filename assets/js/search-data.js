@@ -405,10 +405,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-presented-the-monomial-paper-at-apsipa-2025",
+            },},{id: "news-presented-the-monomial-paper-at-apsipa-2025",
           title: 'Presented the monomial paper at APSIPA 2025',
           description: "",
           section: "News",},{id: "projects-project-1",
