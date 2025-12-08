@@ -50,6 +50,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/bell_labs/";
+            },},{id: "books-fascism-and-democracy",
+          title: 'Fascism and Democracy',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/fasc_democ/";
             },},{id: "books-one-man-39-s-view-of-the-world",
           title: 'One Man&amp;#39;s View of the World',
           description: "",
