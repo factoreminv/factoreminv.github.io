@@ -65,6 +65,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/pieces/";
+            },},{id: "books-politics-and-the-english-language",
+          title: 'Politics and the English Language',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/politics_englang/";
             },},{id: "news-presented-the-monomial-paper-at-apsipa-2025",
           title: 'Presented the monomial paper at APSIPA 2025',
           description: "",
