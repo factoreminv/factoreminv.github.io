@@ -60,6 +60,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/leekuan/";
+            },},{id: "books-notes-on-nationalism",
+          title: 'Notes on Nationalism',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/notes_nationalism/";
             },},{id: "books-pieces-of-the-action",
           title: 'Pieces of the Action',
           description: "",
