@@ -30,15 +30,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-a-post-with-images",
+        },{id: "post-mahler-and-us",
         
-          title: "a post with images",
+          title: "Mahler and us",
         
-        description: "this is what included images could look like",
+        description: "Mahler knew he was the last of the German romantics, we don&#39;t.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/image/";
+            window.location.href = "/blog/2025/image/";
           
         },
       },{id: "books-the-idea-factory",
