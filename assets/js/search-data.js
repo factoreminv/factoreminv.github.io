@@ -41,17 +41,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/mahler/";
           
         },
-      },{id: "post-mahler-and-us",
-        
-          title: "Mahler and us",
-        
-        description: "Mahler knew he was the last of the German romantics, we don&#39;t.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/image/";
-          
-        },
       },{id: "books-the-idea-factory",
           title: 'The Idea Factory',
           description: "",
