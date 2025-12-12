@@ -32,4 +32,4 @@ I wrote two papers on the mathematical foundations of ML, advised by Orhan Arık
 
 I also work on knowledge graph completion and goal planning for robotics in my free time.
 
-If you are mathematically inclined, please take a look at [Monthly Math Problems](https://math.bilkent.edu.tr/prob-month.html)
+If you are mathematically inclined, please take a look at [Jane Street](https://www.janestreet.com/puzzles/current-puzzle/), [IBM](https://research.ibm.com/haifa/ponderthis/index.shtml), [Bilkent](https://math.bilkent.edu.tr/prob-month.html)
