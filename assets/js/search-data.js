@@ -39,16 +39,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/bell_labs/";
-            },},{id: "books-letter-from-birmingham-jail",
-          title: 'Letter from Birmingham Jail',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/birmingham/";
             },},{id: "books-fascism-and-democracy",
           title: 'Fascism and Democracy',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/fasc_democ/";
+            },},{id: "books-letter-from-birmingham-jail",
+          title: 'Letter from Birmingham Jail',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/birmingham/";
             },},{id: "books-the-essential-goethe",
           title: 'The Essential Goethe',
           description: "",
