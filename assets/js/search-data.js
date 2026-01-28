@@ -49,6 +49,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/fasc_democ/";
+            },},{id: "books-politics-and-the-english-language",
+          title: 'Politics and the English Language',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/politics_englang/";
             },},{id: "books-notes-on-nationalism",
           title: 'Notes on Nationalism',
           description: "",
@@ -74,11 +79,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/goethe/";
-            },},{id: "books-politics-and-the-english-language",
-          title: 'Politics and the English Language',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/politics_englang/";
             },},{id: "news-presented-the-monomial-paper-at-apsipa-2025",
           title: 'Presented the monomial paper at APSIPA 2025',
           description: "",
