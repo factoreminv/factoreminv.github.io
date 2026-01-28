@@ -74,6 +74,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/birmingham/";
+            },},{id: "books-the-breakthrough",
+          title: 'The Breakthrough',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/maurier/";
             },},{id: "books-the-essential-goethe",
           title: 'The Essential Goethe',
           description: "",
