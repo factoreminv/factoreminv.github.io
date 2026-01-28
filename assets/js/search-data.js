@@ -44,6 +44,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/fasc_democ/";
+            },},{id: "books-one-man-39-s-view-of-the-world",
+          title: 'One Man&amp;#39;s View of the World',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/leekuan/";
             },},{id: "books-homage-to-catalonia",
           title: 'Homage to Catalonia',
           description: "",
@@ -59,11 +64,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/goethe/";
-            },},{id: "books-one-man-39-s-view-of-the-world",
-          title: 'One Man&amp;#39;s View of the World',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/leekuan/";
             },},{id: "books-notes-on-nationalism",
           title: 'Notes on Nationalism',
           description: "",
