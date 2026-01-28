@@ -39,6 +39,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/bell_labs/";
+            },},{id: "books-pieces-of-the-action",
+          title: 'Pieces of the Action',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/pieces/";
             },},{id: "books-fascism-and-democracy",
           title: 'Fascism and Democracy',
           description: "",
@@ -69,11 +74,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/goethe/";
-            },},{id: "books-pieces-of-the-action",
-          title: 'Pieces of the Action',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/pieces/";
             },},{id: "books-politics-and-the-english-language",
           title: 'Politics and the English Language',
           description: "",
