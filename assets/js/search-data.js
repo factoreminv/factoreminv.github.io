@@ -44,6 +44,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/fasc_democ/";
+            },},{id: "books-homage-to-catalonia",
+          title: 'Homage to Catalonia',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/homage/";
             },},{id: "books-letter-from-birmingham-jail",
           title: 'Letter from Birmingham Jail',
           description: "",
@@ -54,11 +59,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/goethe/";
-            },},{id: "books-homage-to-catalonia",
-          title: 'Homage to Catalonia',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/homage/";
             },},{id: "books-one-man-39-s-view-of-the-world",
           title: 'One Man&amp;#39;s View of the World',
           description: "",
