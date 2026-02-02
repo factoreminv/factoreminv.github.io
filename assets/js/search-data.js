@@ -64,26 +64,26 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/leekuan/";
-            },},{id: "books-homage-to-catalonia",
-          title: 'Homage to Catalonia',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/homage/";
             },},{id: "books-letter-from-birmingham-jail",
           title: 'Letter from Birmingham Jail',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/birmingham/";
+            },},{id: "books-",
+          title: '',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/goethe/";
+            },},{id: "books-homage-to-catalonia",
+          title: 'Homage to Catalonia',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/homage/";
             },},{id: "books-the-breakthrough",
           title: 'The Breakthrough',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/maurier/";
-            },},{id: "books-the-essential-goethe",
-          title: 'The Essential Goethe',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/goethe/";
             },},{id: "news-presented-the-monomial-paper-at-apsipa-2025",
           title: 'Presented the monomial paper at APSIPA 2025',
           description: "",
