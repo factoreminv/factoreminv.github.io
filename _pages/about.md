@@ -28,7 +28,7 @@ latest_posts:
 
 I am an EEE-Physics double major student working on subjects located at the middle ground of ML and information theory. 
 
-I wrote two papers on the mathematical foundations of ML, advised by Orhan Arıkan. Recently I started working with Tolga Mete Duman on finding new bounds for the capacity of the binary deletion channel.
+I did work on the mathematical foundations of ML, advised by Orhan Arıkan. Recently I started working with Tolga Mete Duman on finding new bounds for the capacity of the binary deletion channel.
 
 I also work on knowledge graph completion and goal planning for robotics in my free time.
 
