@@ -9,7 +9,7 @@ last_name: Soysal
 contact_note: >
   Sending an e-mail is the best way to contact me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal site of Özgür Soysal. A collection of my work, writings, and the things I’m currently learning.
+  A collection of my work, writings, and the things I’m currently learning.
 footer_text: >
   Raffiniert ist der Herrgott, aber boshaft ist er nicht.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
