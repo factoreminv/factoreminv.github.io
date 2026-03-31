@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Neuromorphic Studio launced!
+Neuromorphic Studio launched!
