@@ -87,8 +87,8 @@ ninja.data = [{
             },},{id: "news-presented-the-monomial-paper-at-apsipa-2025",
           title: 'Presented the monomial paper at APSIPA 2025',
           description: "",
-          section: "News",},{id: "news-neuromorphic-studio-launced",
-          title: 'Neuromorphic Studio launced!',
+          section: "News",},{id: "news-neuromorphic-studio-launched",
+          title: 'Neuromorphic Studio launched!',
           description: "",
           section: "News",},{
         id: 'social-email',
