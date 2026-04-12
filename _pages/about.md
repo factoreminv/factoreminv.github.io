@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<em>A person who works with his hands is a laborer. A person who works with his hands and his head is a craftsman. A person who works with his hands and his head and his heart is an artist. Be an artist.</em>"
+subtitle: "<em>I cannot fiddle but I can make a great state from a small city.</em>"
 
 profile:
   align: right
