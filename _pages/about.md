@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<em>I cannot fiddle but I can make a great state from a little city (Themistocles, c. 500 BC).</em>"
+subtitle: "<em>I cannot fiddle but I can make a great state from a little city (Themistocles, c.500 BC).</em>"
 
 profile:
   align: right
