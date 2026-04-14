@@ -88,7 +88,7 @@ ninja.data = [{
           title: 'Presented the monomial paper at APSIPA 2025',
           description: "",
           section: "News",},{id: "news-neuromorphic-https-www-neuromorphic-studio-is-up",
-          title: '[Neuromorphic]{https://www.neuromorphic.studio/} is up!',
+          title: '[Neuromorphic]{“https://www.neuromorphic.studio”} is up!',
           description: "",
           section: "News",},{
         id: 'social-email',
