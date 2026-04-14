@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Neuromorphic]{https://www.neuromorphic.studio/} is up!
+[Neuromorphic]{"https://www.neuromorphic.studio"} is up!
