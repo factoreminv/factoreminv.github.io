@@ -13,3 +13,4 @@ stars: 4
 status: Finished
 ---
 
+Nothing very interesting here. It is a nicely told history of Bell Labs through the historically key people there. It is nevertheless inspiring to read as these people were the intellectual piers of their time whose legacy is everlasting.
