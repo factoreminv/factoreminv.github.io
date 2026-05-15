@@ -51,11 +51,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/pieces/";
-            },},{id: "books-fascism-and-democracy",
-          title: 'Fascism and Democracy',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/fasc_democ/";
             },},{id: "books-politics-and-the-english-language",
           title: 'Politics and the English Language',
           description: "",
@@ -81,6 +76,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/birmingham/";
+            },},{id: "books-",
+          title: '',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/elixir/";
+            },},{id: "books-fascism-and-democracy",
+          title: 'Fascism and Democracy',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/fasc_democ/";
             },},{id: "books-the-breakthrough",
           title: 'The Breakthrough',
           description: "",
