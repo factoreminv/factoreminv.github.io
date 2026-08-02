@@ -8,11 +8,11 @@ related_posts: false
 ---
 
 A positive integer is **square-free** if it is not divisible by the
-square of any prime. Call a positive integer \(a\) **simple** if
+square of any prime. Call a positive integer $a$ **simple** if
 
-\[
+$$
 a,\qquad a+1,\qquad a+2
-\]
+$$
 
 are all square-free.
 
@@ -27,48 +27,48 @@ the square-free integers.
 
 Any triple of three consecutive square-free integers must be of the form
 
-\[
+$$
 4n+1,\qquad 4n+2,\qquad 4n+3.
-\]
+$$
 
 Indeed, every other triple of three consecutive integers contains a
-multiple of \(4\), which cannot be square-free.
+multiple of $4$, which cannot be square-free.
 
 Suppose, for contradiction, that only finitely many of these triples are
-entirely square-free. Then, for every sufficiently large \(n\), at least
+entirely square-free. Then, for every sufficiently large $n$, at least
 one of
 
-\[
+$$
 4n+1,\qquad 4n+2,\qquad 4n+3
-\]
+$$
 
 is not square-free.
 
-The integer \(4n\) is also not square-free. Therefore, every sufficiently
+The integer $4n$ is also not square-free. Therefore, every sufficiently
 large block
 
-\[
+$$
 \{4n,4n+1,4n+2,4n+3\}
-\]
+$$
 
 contains at most two square-free integers.
 
-Let \(Q(x)\) denote the number of square-free positive integers not
-exceeding \(x\). Our assumption would imply
+Let $Q(x)$ denote the number of square-free positive integers not
+exceeding $x$. Our assumption would imply
 
-\[
+$$
 Q(x)\leq \frac{x}{2}+O(1).
-\]
+$$
 
 However, the square-free integers have natural density
 
-\[
+$$
 \lim_{x\to\infty}\frac{Q(x)}{x}
 =
 \frac{6}{\pi^2}
 >
 \frac12.
-\]
+$$
 
 This is a contradiction. Hence there are infinitely many triples of
 consecutive square-free integers. \(\square\)
@@ -77,35 +77,35 @@ consecutive square-free integers. \(\square\)
 
 The same proof gives more than infinitude.
 
-Let \(G(N)\) be the number of \(n\in\{0,\ldots,N-1\}\) such that
+Let $G(N)$ be the number of $n\in\{0,\ldots,N-1\}$ such that
 
-\[
+$$
 4n+1,\qquad 4n+2,\qquad 4n+3
-\]
+$$
 
 are all square-free.
 
 A good block contains three square-free integers, while every other
 block contains at most two. Consequently,
 
-\[
+$$
 Q(4N)\leq 2N+G(N).
-\]
+$$
 
 Since
 
-\[
+$$
 Q(4N)=\frac{24}{\pi^2}N+o(N),
-\]
+$$
 
 we obtain
 
-\[
+$$
 \liminf_{N\to\infty}\frac{G(N)}{N}
 \geq
 \frac{24}{\pi^2}-2
 \approx 0.4317.
-\]
+$$
 
 Thus the proof actually establishes that such triples have positive
 lower density among the possible triples \((4n+1,4n+2,4n+3)\).
