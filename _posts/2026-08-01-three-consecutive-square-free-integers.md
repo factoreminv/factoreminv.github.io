@@ -116,8 +116,13 @@ I found this argument in December 2022 while solving Bilkent University's
 Problem of the Month. The photograph below is my original handwritten
 solution from that time.
 
-![My original handwritten solution, December 2022]({{ '/assets/img/squarefree_triples_proof.jpeg' | relative_url }})
-
+<div style="text-align: center;">
+  <img
+    src="{{ '/assets/img/squarefree_triples_proof.jpeg' | relative_url }}"
+    alt="Handwritten proof concerning three consecutive square-free integers"
+    style="max-width: 100%; height: auto;"
+  >
+</div>
 ## Note on priority
 
 I found this argument independently, but the result and the proof are
