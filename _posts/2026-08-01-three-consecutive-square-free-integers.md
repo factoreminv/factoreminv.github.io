@@ -3,7 +3,6 @@ layout: post
 title: "Three Consecutive Square-Free Integers, Infinitely Often"
 date: 2026-08-01
 description: "A short density argument showing that infinitely many triples of consecutive integers are square-free."
-tags: number-theory square-free density
 categories: mathematics
 related_posts: false
 ---
