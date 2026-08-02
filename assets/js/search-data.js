@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-mahler-and-us",
+        },{id: "post-three-consecutive-square-free-integers-infinitely-often",
+        
+          title: "Three Consecutive Square-Free Integers, Infinitely Often",
+        
+        description: "A short density argument showing that infinitely many triples of consecutive integers are square-free.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/three-consecutive-square-free-integers/";
+          
+        },
+      },{id: "post-mahler-and-us",
         
           title: "Mahler and us",
         
