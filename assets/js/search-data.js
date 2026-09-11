@@ -110,6 +110,9 @@ ninja.data = [{
             },},{id: "news-presented-the-monomial-paper-at-apsipa-2025",
           title: 'Presented the monomial paper at APSIPA 2025',
           description: "",
+          section: "News",},{id: "news-new-bounds-on-the-bdc-capacity",
+          title: 'New bounds on the BDC capacity.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
