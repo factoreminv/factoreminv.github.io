@@ -26,9 +26,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an EEE-Physics double major student working on subjects located at the middle ground of ML and information theory. 
+I am an EE PhD student at Stanford working on formalized ML and information theory. 
 
-I worked on the mathematical foundations of machine learning advised by Orhan Arıkan and collaborated with Tolga Mete Duman to derive new bounds on the capacity of the binary deletion channel.
+During undergrad I worked on the mathematical foundations of machine learning advised by Orhan Arıkan and collaborated with Tolga Mete Duman to derive new bounds on the capacity of the binary deletion channel.
 
 I also work on knowledge graph completion and goal planning for robotics in my free time.
 
